@@ -1,12 +1,84 @@
-# Tags: latest, 7.3.0-debian-10-r488, 7.3.0, 7.3-debian-10, 7.3
+# Tags: latest, 7.3.0-debian-10-r513, 7.3.0, 7.3-debian-10, 7.3
 FROM bitnami/logstash-exporter:latest
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r488
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r513
 FROM bitnami/logstash-exporter:7.3.0
 FROM bitnami/logstash-exporter:7.3-debian-10
 FROM bitnami/logstash-exporter:7.3
 
 # Tags: _
 FROM bitnami/logstash-exporter:_
+
+# Tags: 7.3.0-debian-10-r512
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r512
+
+# Tags: 7.3.0-debian-10-r511
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r511
+
+# Tags: 7.3.0-debian-10-r510
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r510
+
+# Tags: 7.3.0-debian-10-r508
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r508
+
+# Tags: 7.3.0-debian-10-r507
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r507
+
+# Tags: 7.3.0-debian-10-r506
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r506
+
+# Tags: 7.3.0-debian-10-r505
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r505
+
+# Tags: 7.3.0-debian-10-r504
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r504
+
+# Tags: 7.3.0-debian-10-r503
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r503
+
+# Tags: 7.3.0-debian-10-r502
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r502
+
+# Tags: 7.3.0-debian-10-r501
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r501
+
+# Tags: 7.3.0-debian-10-r500
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r500
+
+# Tags: 7.3.0-debian-10-r499
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r499
+
+# Tags: 7.3.0-debian-10-r498
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r498
+
+# Tags: 7.3.0-debian-10-r497
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r497
+
+# Tags: 7.3.0-debian-10-r496
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r496
+
+# Tags: 7.3.0-debian-10-r495
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r495
+
+# Tags: 7.3.0-debian-10-r494
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r494
+
+# Tags: 7.3.0-debian-10-r493
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r493
+
+# Tags: 7.3.0-debian-10-r492
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r492
+
+# Tags: 7.3.0-debian-10-r491
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r491
+
+# Tags: 7.3.0-debian-10-r490
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r490
+
+# Tags: 7.3.0-debian-10-r489
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r489
+
+# Tags: 7.3.0-debian-10-r488
+FROM bitnami/logstash-exporter:7.3.0-debian-10-r488
 
 # Tags: 7.3.0-debian-10-r487
 FROM bitnami/logstash-exporter:7.3.0-debian-10-r487
@@ -22,75 +94,3 @@ FROM bitnami/logstash-exporter:7.3.0-debian-10-r484
 
 # Tags: 7.3.0-debian-10-r483
 FROM bitnami/logstash-exporter:7.3.0-debian-10-r483
-
-# Tags: 7.3.0-debian-10-r482
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r482
-
-# Tags: 7.3.0-debian-10-r481
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r481
-
-# Tags: 7.3.0-debian-10-r480
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r480
-
-# Tags: 7.3.0-debian-10-r479
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r479
-
-# Tags: 7.3.0-debian-10-r478
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r478
-
-# Tags: 7.3.0-debian-10-r477
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r477
-
-# Tags: 7.3.0-debian-10-r476
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r476
-
-# Tags: 7.3.0-debian-10-r475
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r475
-
-# Tags: 7.3.0-debian-10-r474
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r474
-
-# Tags: 7.3.0-debian-10-r473
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r473
-
-# Tags: 7.3.0-debian-10-r472
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r472
-
-# Tags: 7.3.0-debian-10-r471
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r471
-
-# Tags: 7.3.0-debian-10-r470
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r470
-
-# Tags: 7.3.0-debian-10-r469
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r469
-
-# Tags: 7.3.0-debian-10-r468
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r468
-
-# Tags: 7.3.0-debian-10-r467
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r467
-
-# Tags: 7.3.0-debian-10-r466
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r466
-
-# Tags: 7.3.0-debian-10-r465
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r465
-
-# Tags: 7.3.0-debian-10-r464
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r464
-
-# Tags: 7.3.0-debian-10-r463
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r463
-
-# Tags: 7.3.0-debian-10-r462
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r462
-
-# Tags: 7.3.0-debian-10-r461
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r461
-
-# Tags: 7.3.0-debian-10-r460
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r460
-
-# Tags: 7.3.0-debian-10-r459
-FROM bitnami/logstash-exporter:7.3.0-debian-10-r459
